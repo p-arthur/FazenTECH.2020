@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": "123",
+      "title": "Saca de Soja 60kg",
+      "image_url": "https://www.suino.com.br/wp-content/uploads/2017/12/soybeans-2039639_1280.jpg",
+      "price": 50
+    },
+    {
+      "id": "1234",
+      "title": "Saca de Milho 60kg",
+      "image_url": "https://maracajuemfoco.com.br/img/noticias/862598acf89bcbafed726b6d554c2bbb.jpg",
+      "price": 60
+    },
+    {
+      "id": "12345",
+      "title": "Nelore Cabeça",
+      "image_url": "https://www.lancerural.com.br/wp-content/uploads/2016/12/escneloreraca640.jpg",
+      "price": 70
+    },
+    {
+      "id": "123456",
+      "title": "Semente de grama 60kg",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/718XV6goULL._AC_SX425_.jpg",
+      "price": 80
+    }
+  ]
+}
